@@ -10,6 +10,6 @@ I always enjoyed making my life (and others') easier, not using shorcuts but onl
 ## My Soft Skills
 - Proficient in fostering positive interactions through direct engagement
 - My approach to leadership is rooted in personal integrity and a dedication to guiding and empowering others
-- Proficient in maintaining order and efficiency, ensuring smooth operations through careful attention to detail and effective task management.
+- I'm good at maintaining order and efficiency, ensuring smooth operations through careful attention to detail and effective task management.
 
 ## Technical Skills
