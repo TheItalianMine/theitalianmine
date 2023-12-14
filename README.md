@@ -13,3 +13,4 @@ I always enjoyed making my life (and others') easier, not using shorcuts but onl
 - I'm good at maintaining order and efficiency, ensuring smooth operations through careful attention to detail and effective task management.
 
 ## Technical Skills
+
