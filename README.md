@@ -13,4 +13,16 @@ I always enjoyed making my life (and others') easier, not using shorcuts but onl
 - I'm good at maintaining order and efficiency, ensuring smooth operations through careful attention to detail and effective task management.
 
 ## Technical Skills
-
+- Web Development
+  - HTML/CSS
+  - Javascript
+  - Node.js
+  - Next.js
+  - React.js
+- Object Oriented Programming
+  - Java
+  - C++
+- Networking and Automation
+  - Cisco CCNA (With letter of merit)
+  - Cisco IT Essentials (With letter of merit)
+  - Cisco IoT
