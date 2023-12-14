@@ -25,4 +25,4 @@ I always enjoyed making my life (and others') easier, not using shorcuts but onl
 - Networking and Automation
   - Cisco CCNA (With letter of merit)
   - Cisco IT Essentials (With letter of merit)
-  - Cisco IoT
+  - Cisco IoT: Connecting Things
